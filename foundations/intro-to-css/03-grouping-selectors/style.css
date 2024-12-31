@@ -1,0 +1,13 @@
+.common {
+    font-size: 28px;
+    font-family: helvetica, "times new roman", sans-serif; 
+}
+
+.me {
+    color: white;
+    background-color: black;
+}
+
+.nome {
+    background-color: yellow;
+}
